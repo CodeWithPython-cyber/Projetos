@@ -13,7 +13,9 @@ Este repositório serve como uma coleção de meus trabalhos, abrangendo diferen
 
 ## Contribuições
 
-Se você tiver sugestões, dúvidas ou quiser colaborar com algum projeto, fique à vontade para abrir uma issue ou enviar um pull request.
+Se você tiver sugestões, dúvidas ou quiser colaborar com algum projeto, fique à vontade para abrir uma issue ou enviar um pull request. E também se quiser, entre no meu servidor do Discord onde ainda no momento não tem ninguém, mas se quiser venha participar da minha equipe!
+
+https://discord.gg/D6mq2vnP4y
 
 ---
 
